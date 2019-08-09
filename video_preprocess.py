@@ -1,3 +1,10 @@
+############################################
+## Author: Chih-Chia Li
+############################################
+## Partially implementation of paper
+##   "Unsupervised Representation Learning by Sorting Sequences" (2017ICCV)
+############################################
+
 import json
 import os
 import random
@@ -5,7 +12,7 @@ from PIL import Image
 import numpy as np
 from itertools import combinations
 
-images_folder = '/home/karljackab/2017reshuffling/data/video/imgs'
+images_folder = '/home/karljackab/2017reshuffling/data/imgs'
 img_set_number = 4
 train_prob = 0.7
 test_prob = 0.3

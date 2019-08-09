@@ -1,3 +1,10 @@
+############################################
+## Author: Chih-Chia Li
+############################################
+## Partially implementation of paper
+##   "Unsupervised Representation Learning by Sorting Sequences" (2017ICCV)
+############################################
+
 import matplotlib as mpl
 mpl.use('Agg')
 
