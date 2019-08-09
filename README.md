@@ -5,7 +5,7 @@ Partially implementation of paper "Unsupervised Representation Learning by Sorti
 <img src="https://i.imgur.com/mu4SEud.png">
 </p>
 
-Only implement the model architecture. For dataset, I use "HMDB-51" video cropped in 1 image per 0.1 second duration without specific processing described in paper
+Only implement the model architecture. For dataset, I use "HMDB-51" video cropped in 1 image per 0.1 second duration without the  process described in paper
 
 You can download the data I have preprocessed [here](https://drive.google.com/drive/folders/11S1jRM_YZJ2NAnJ1TE_uefga-Taxp57X?usp=sharing), or do it by yourself
 
